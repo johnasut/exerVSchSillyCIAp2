@@ -1,0 +1,49 @@
+body {
+  background-color: #F3F3F3;
+  margin: auto 10%;
+}
+
+h1 {
+  text-align: center;
+  color: darkgreen;
+  font-size: 51px;
+  font-family: Georgia;
+}
+
+h2 {
+  text-align: center;
+  font-size: 38px;
+  font-family: Georgia;
+}
+
+img {
+  display: inline-block;
+  float: left;
+  height: 390px;
+  margin: 25px;
+}
+
+p {
+  font-size: 25px;
+  line-height: 40px;
+}
+
+ul {
+  font-size: 25px;
+  margin-left: 20px;
+  line-height: 40px;
+}
+
+p.aside {
+  text-transform: uppercase;
+}
+
+a {
+  font-size: 25px;
+  text-decoration: none;
+  color: #0000EE;
+}
+
+a:hover {
+  text-decoration: underline;
+}
